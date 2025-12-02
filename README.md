@@ -9,13 +9,11 @@ See [the web page](https://uofa-cmput404.github.io/general/project.html) for a d
 Make a distributed social network!
 
 ## Login Credentials for TA
-URL: [crimson-node-utsha](https://crimson-node-utsha-3b1241201ee1.herokuapp.com/)
+URL: [crimson-node-raiyana](https://crimson-node-raiyana-06162b6fe0cf.herokuapp.com/)
 
-FQID: https://crimson-node-utsha-3b1241201ee1.herokuapp.com/api/authors/RXgocryEaBFgM9bhhBXd6A/
+Username: crimson-node-raiyana
 
-Username: utshaAdmin
-
-Password: cmput404Utsha
+Password: Onlyforcrimsonnoderaiyana
 
 ## Team Members
 
