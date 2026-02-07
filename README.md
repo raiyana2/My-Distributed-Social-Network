@@ -4,6 +4,8 @@ A Distributed Social Network!!
 
 See [the web page](https://uofa-cmput404.github.io/general/project.html) for a description of the project.
 
+![Interlink](./static/images/4.png)
+
 
 ## Team Members
 
