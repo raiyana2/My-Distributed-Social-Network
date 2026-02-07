@@ -1,17 +1,9 @@
 
-Distributed Social Network
+A Distributed Social Network!!
 ===================================
 
 See [the web page](https://uofa-cmput404.github.io/general/project.html) for a description of the project.
 
-A distributed social network!
-
-## Login Credentials
-URL: [crimson-node-raiyana](https://crimson-node-raiyana-06162b6fe0cf.herokuapp.com/)
-
-Username: crimson-node-raiyana
-
-Password: Onlyforcrimsonnoderaiyana
 
 ## Team Members
 
