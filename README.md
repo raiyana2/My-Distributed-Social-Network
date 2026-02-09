@@ -19,6 +19,9 @@ See [the web page](https://uofa-cmput404.github.io/general/project.html) for a d
 | Kehan Chen | kehan | KarlFranzman     |
 | Amitoj Singh | amitoj2 | amitojxsingh |
 
+## API Documentation
+https://crimson-404-e3ab213c25f7.herokuapp.com/api/docs/swagger/
+
 ## License
 
 This project is licensed under the Apache License 2.0 – see the [LICENSE](LICENSE) file for details.  
@@ -33,6 +36,7 @@ The authors claiming copyright for this project:
 - Kevin Ho He  
 - Kehan Chen  
 - Amitoj Singh
+
 
 
 ## Collaboration (AI)
